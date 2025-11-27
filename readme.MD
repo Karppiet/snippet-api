@@ -13,9 +13,13 @@ npm start
 Open VS Code terminal. The commands are the same on both platforms.
 ## API Endpoints
 GET /api/snippets # Retrieves a list of all snippets. Optional query parameters: ?lang=(language) &limit=(limit the search)
+
 POST /api/snippets # Creates a new snippet. Requires: title, language and code
+
 DELETE /api/snippets/:id # Deletes an existing lead by ID. 
-PUT /api/snippets/:id # Update the content of the snippet by ID. Fields you can update: title, language, code and tags.
+
+PUT /api/snippets/:id # Update the content of the snippet by ID. Fields you can update:
+title, language, code and tags.
 ## Technology Stack
 Node, Express, vanilla JS, JSON, MongoDB(database).
 ## Project Reflection 
