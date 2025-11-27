@@ -36,4 +36,3 @@ While building this application I have learnt about how restful API application 
 for example POST and PUT http requests.
 
 The next steps and improvements for the app is naturally the developing the front end UI using for example REACT.
-
