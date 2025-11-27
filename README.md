@@ -35,4 +35,4 @@ Or you can use a program like Postman to make the queries to the database.
 While building this application I have learnt about how restful API application works and how to use and implement
 for example POST and PUT http requests.
 
-The next steps and improvements for the app is naturally the developing the front end UI.
+The next steps and improvements for the app is naturally the developing of the front end UI.
