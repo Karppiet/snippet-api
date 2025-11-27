@@ -1,7 +1,7 @@
 {
   "name": "snippet-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "Code snippet API coursework",
   "main": "index.js",
   "scripts": {
    "start": "node server.js",
