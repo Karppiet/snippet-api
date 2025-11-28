@@ -94,7 +94,7 @@ app.post("/api/snippets", async (req, res) => {
 // DELETE SNIPPET
 app.delete("/api/snippets/:id", async (req, res) => {
   try {
-    const snippet = Snippet.findByIdAndDelete(req.params.id);
+    const snippet = await Snippet.findByIdAndDelete(req.params.id);
     if (!snippet) {
       return res.status(404).json({ errror: "Snippet not found" });
     }
