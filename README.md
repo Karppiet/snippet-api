@@ -30,7 +30,7 @@ Write 200 to 300 words here on what you built, what you learned, and next improv
 I've built application to store, retrieve, edit and delete code snippets in to database.
 It consists of server.js wich is the main program, .env where the enviromental variables are stored and node modules  and package.json.
 
-You can make the queries with the app using browser and API Endpoints listed above. http://localhost:3000/api/snippets for example.
+You can test using browser and for example: http://localhost:3000/api/snippets. Though you can test only GET like this in the browser.
 
 Or you can use a program like Postman to make the queries to the database.
 
