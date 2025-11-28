@@ -14,6 +14,8 @@ Open VS Code terminal. The commands are the same on both platforms.
 ## API Endpoints
 GET /api/snippets # Retrieves a list of all snippets. Optional query parameters: ?lang=(language) &limit=(limit the search)
 
+GET /api/snippets/:id # Retrives the snippet by its ID. 
+
 POST /api/snippets # Creates a new snippet. Requires: title, language and code
 
 DELETE /api/snippets/:id # Deletes an existing lead by ID. 
@@ -35,4 +37,4 @@ Or you can use a program like Postman to make the queries to the database.
 While building this application I have learnt about how restful API application works and how to use and implement
 for example POST and PUT http requests.
 
-The next steps and improvements for the app is naturally the developing the front end UI using for example REACT.
+The next steps and improvements for the app is naturally the developing of the front end UI.
