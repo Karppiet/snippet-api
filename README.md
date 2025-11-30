@@ -1,6 +1,6 @@
 # Snippet Api (Project 2)
 ## Live Deployment
-Live: [YOUR_RENDER_URL](https://fullstack-snippet-api.onrender.com)
+Live: https://fullstack-snippet-api.onrender.com
 ## Running Locally
 ### Prerequisites
 You must have Node.js (version 18 or later) installed.
