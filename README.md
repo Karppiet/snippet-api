@@ -7,7 +7,9 @@ You must have Node.js (version 18 or later) installed.
 ### Setup Instructions
 ## 1. Install dependencies defined in package.json
 npm install
-## 2. Start the server - opens on http://localhost:3000/ by default (or the PORT from .env)
+## 2. Add .env
+You must have a .env file with mongo database connection string
+## 3. Start the server - opens on http://localhost:3000/ by default (or the PORT from .env)
 npm start 
 ## Windows and macOS Notes
 Open VS Code terminal. The commands are the same on both platforms.
