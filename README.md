@@ -60,7 +60,7 @@ The next steps and improvements for the app is naturally the developing of the f
 
 ## Written self assesment 
 I think this project was succesfull. I would give myself 18/20 points. The project reflection part of the documentation could be longer and more in depth. Also the documentation as a whole
-could be a bit better. Everyting else is working.
+could be a bit better. Everything else is working.
 
 ## Timestamps for the video
 
