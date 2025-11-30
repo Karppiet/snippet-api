@@ -52,6 +52,8 @@ You can test using browser and for example: http://localhost:3000/api/snippets. 
 Or you can use a program like Postman to make the queries to the database.
 
 While building this application I have learnt about how restful API application works and how to use and implement
-for example POST and PUT HTTP requests.
+for example POST and PUT HTTP requests. I had some problems with all of those not working correctly but i got them working trough testing. 
+Also the amount of time that documentating requires is been a bit of a surprise. I have worked with this project for a while trying to do all the required things bit by bit.
+It has been rewarding and also a bit frustrating process. 
 
 The next steps and improvements for the app is naturally the developing of the front end UI.
