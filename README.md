@@ -39,10 +39,9 @@ title, language, code and tags.
 
 
 ## Technology Stack
-Node, Express, vanilla JS, JSON, MongoDB(database).
-## Project Reflection 
-Write 200 to 300 words here on what you built, what you learned, and next improvements.e
+Node, Express, vanilla JS and MongoDB(database).
 
+## Project Reflection 
 I've built application to store, retrieve, edit and delete code snippets in to database.
 It consists of server.js wich is the main program, .env where the enviromental variables are stored and node modules  and package.json.
 
